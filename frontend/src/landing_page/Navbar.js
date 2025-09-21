@@ -1,9 +1,9 @@
 import React from 'react'
-function OpenAccount() {
+function Navbar() {
     return ( 
     <>
     
     </> );
 }
 
-export default OpenAccount;
+export default Navbar;
